@@ -1,3 +1,5 @@
+SamSoarII的软件打开弹出“SamSoarll已停止工作”的提示，解决方法如下：
+
 1、双击安装包DotNetFx40/dotNetFX40_Full_x86_x64.exe安装.Net Framework
 
-2、如果还是不能打开，卸载所有等于或者高于4.0的.Net Framework，然后安装这个版本
+2、双击安装后，重新打开SamSoarll的软件，还是提示错误，卸载电脑中所有等于或者高于4.0的.Net Framework，然后再双击安装包DotNetFx40/dotNetFX40_Full_x86_x64.exe安装.Net Framework
