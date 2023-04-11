@@ -1,4 +1,4 @@
-# samsaorII
+# SamsoarII
 
 SamSoarII_v2.3.28-218(2023.3.21)
 
